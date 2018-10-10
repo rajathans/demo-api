@@ -1,0 +1,30 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Jian Yang"
+		},
+		{
+			"id": 2,
+			"name": "Peter Gregory"
+		},
+		{
+			"id": 3,
+			"name": "Nusret"
+		}
+	],
+	"classes" : [
+		{
+			"id" : 1,
+			"name": "Yoga"
+		},
+		{
+			"id": 2,
+			"name": "Crossfit"
+		},
+		{
+			"id": 3,
+			"name": "Boxing"
+		}
+	]
+}
